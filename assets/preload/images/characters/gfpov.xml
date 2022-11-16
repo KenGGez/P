@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfpov.png">
+<SubTexture name="GF Dancing Beat0000" x="1412" y="0" width="358" height="482" frameX="0" frameY="-12" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0001" x="1412" y="0" width="358" height="482" frameX="0" frameY="-12" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0002" x="0" y="979" width="355" height="479" frameX="-2" frameY="-12" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0003" x="0" y="979" width="355" height="479" frameX="-2" frameY="-12" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0004" x="1412" y="482" width="353" height="482" frameX="-4" frameY="-8" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0005" x="1412" y="482" width="353" height="482" frameX="-4" frameY="-8" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0006" x="1059" y="0" width="353" height="484" frameX="-4" frameY="-6" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0007" x="1059" y="0" width="353" height="484" frameX="-4" frameY="-6" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0008" x="0" y="0" width="353" height="490" frameX="-4" frameY="0" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0009" x="0" y="0" width="353" height="490" frameX="-4" frameY="0" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0010" x="353" y="0" width="353" height="489" frameX="-4" frameY="-1" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0011" x="353" y="0" width="353" height="489" frameX="-4" frameY="-1" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0012" x="706" y="0" width="353" height="489" frameX="-4" frameY="-1" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0013" x="706" y="0" width="353" height="489" frameX="-4" frameY="-1" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0014" x="708" y="979" width="355" height="475" frameX="-2" frameY="-16" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0015" x="708" y="979" width="355" height="475" frameX="-2" frameY="-16" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0016" x="1063" y="979" width="353" height="473" frameX="-4" frameY="-17" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0017" x="1063" y="979" width="353" height="473" frameX="-4" frameY="-17" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0018" x="355" y="979" width="353" height="476" frameX="-4" frameY="-14" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0019" x="355" y="979" width="353" height="476" frameX="-4" frameY="-14" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0020" x="1059" y="484" width="353" height="478" frameX="-4" frameY="-12" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0021" x="1059" y="484" width="353" height="478" frameX="-4" frameY="-12" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0022" x="706" y="490" width="353" height="487" frameX="-4" frameY="-3" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0023" x="706" y="490" width="353" height="487" frameX="-4" frameY="-3" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0024" x="353" y="490" width="353" height="488" frameX="-4" frameY="-2" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0025" x="353" y="490" width="353" height="488" frameX="-4" frameY="-2" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0026" x="0" y="490" width="353" height="489" frameX="-4" frameY="-1" frameWidth="358" frameHeight="494" />
+<SubTexture name="GF Dancing Beat0027" x="0" y="490" width="353" height="489" frameX="-4" frameY="-1" frameWidth="358" frameHeight="494" />
+</TextureAtlas>
