@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "game over first"
+		},
+		{
+			"offsets": [
+				-14,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "game over loop"
+		},
+		{
+			"offsets": [
+				-15,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "game over end"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bensonprank-dead",
+	"position": [
+		200,
+		350
+	],
+	"healthicon": "bensonprank",
+	"flip_x": true,
+	"healthbar_colors": [
+		169,
+		95,
+		129
+	],
+	"camera_position": [
+		130,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				-16
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "lmiss_ben",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				-66
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "dmiss_ben",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-10
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rmiss_ben",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				90
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "umiss_ben",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lalt_ben",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ralt_ben",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-101
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dalt_ben",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				69
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ualt_ben",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ialt_ben",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bensonprank",
+	"position": [
+		250,
+		310
+	],
+	"healthicon": "bensonprank",
+	"flip_x": true,
+	"healthbar_colors": [
+		196,
+		53,
+		188
+	],
+	"camera_position": [
+		190,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

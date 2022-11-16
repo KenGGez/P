@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-129
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				275,
+				-90
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "alt idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/summer",
+	"position": [
+		140,
+		200
+	],
+	"healthicon": "summertime",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		56,
+		46
+	],
+	"camera_position": [
+		-330,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
