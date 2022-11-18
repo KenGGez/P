@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgbop.png">
+<SubTexture name="bgbop0000" x="0" y="508" width="1180" height="497" frameX="-8" frameY="-20" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0001" x="0" y="508" width="1180" height="497" frameX="-8" frameY="-20" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0002" x="0" y="1005" width="1183" height="487" frameX="-9" frameY="-25" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0003" x="0" y="1005" width="1183" height="487" frameX="-9" frameY="-25" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0004" x="1180" y="508" width="1197" height="495" frameX="-1" frameY="-15" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0005" x="1180" y="508" width="1197" height="495" frameX="-1" frameY="-15" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0006" x="1196" y="0" width="1198" height="505" frameX="0" frameY="-3" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0007" x="1196" y="0" width="1198" height="505" frameX="0" frameY="-3" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0008" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0009" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0010" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0011" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0012" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0013" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0014" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0015" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0016" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0017" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0018" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0019" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0020" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0021" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0022" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0023" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0024" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0025" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0026" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0027" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+<SubTexture name="bgbop0028" x="0" y="0" width="1196" height="508" frameX="0" frameY="0" frameWidth="1201" frameHeight="519" />
+</TextureAtlas>
